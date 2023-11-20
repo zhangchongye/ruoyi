@@ -13,6 +13,7 @@ import com.ruoyi.common.core.domain.BaseEntity;
  */
 public class Teacher extends BaseEntity
 {
+
     private static final long serialVersionUID = 1L;
 
     /** ID */
